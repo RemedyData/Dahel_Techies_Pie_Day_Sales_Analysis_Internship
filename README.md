@@ -3,7 +3,8 @@ Dahel Consultant and Techies: Sales Analysis; A deep dive into Pie-Day Sales dat
 (*The picture below is gotten from The Guardian Nigeria News Website*). 
 
 
-![image](https://github.com/RemedyData/Dahel_Techies_Pie_Day_Sales_Analysis_Internship/assets/137626163/fec4be18-1221-4f94-a016-2a63065f8b08)
+![image](https://github.com/RemedyData/Dahel_Techies_Pie_Day_Sales_Analysis_Internship/assets/137626163/1b181f2d-51f8-4c6d-b71c-ca7bce84187f)
+
 
 
 
